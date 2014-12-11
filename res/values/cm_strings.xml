@@ -365,7 +365,7 @@
     <string name="disable_navkeys_title">Enable on-screen nav bar</string>
     <string name="disable_navkeys_summary">Enable on-screen navigation bar and disable hardware buttons</string>
 
-    <string name="header_category_personalization">Personalization</string>
+    <string name="header_category_personalization">A2D-MY Settings</string>
 
     <!-- Status bar -->
     <string name="status_bar_title">Status bar</string>
@@ -788,9 +788,9 @@
     <string name="set">Set</string>
     <string name="color_default">Default</string>
 
-    <!-- Status bar -->
-    <string name="status_bar_title">Status bar</string>	
-    <string name="status_bar_style_title">Style</string>
+    <!-- Clock & date -->
+    <string name="status_bar_clock_title">Clock and date style</string>
+    <string name="status_bar_style_title">Settings</string>
 
     <!-- Status bar | Clock -->
     <string name="status_bar_clock">Clock and date</string>
