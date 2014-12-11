@@ -408,8 +408,13 @@
         <item>@string/status_bar_battery_percentage_text_inside</item>
         <item>@string/status_bar_battery_percentage_text_next</item>
     </string-array>
-
+   
     <string-array name="status_bar_battery_percentage_values" translatable="false">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+   
     <string-array name="clock_style_entries" translatable="false">
         <item>@string/right_clock</item>
         <item>@string/center_clock</item>
@@ -477,5 +482,4 @@
         <item>EEEE MM/dd</item>
         <item>@string/clock_date_format_custom</item>
     </string-array>
-
 </resources>
