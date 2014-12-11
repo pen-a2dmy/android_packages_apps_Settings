@@ -91,6 +91,13 @@
                 android:icon="@drawable/ic_settings_interface"
                 />
 
+	<!-- Clock & date -->
+        <dashboard-tile
+                android:id="@+id/status_bar_clock_settings"
+                android:title="@string/status_bar_clock_title"
+                android:fragment="com.android.settings.slim.StatusBarClockStyle"
+                android:icon="@drawable/ic_settings_date_time"
+                />
 
     </dashboard-category>
 
